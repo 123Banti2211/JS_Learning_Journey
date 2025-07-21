@@ -1,3 +1,5 @@
+//Number and Maths in Javascript 
+
 const score = 400
 // console.log(score);
 

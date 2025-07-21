@@ -1,3 +1,5 @@
+//Datatype conversion confusion
+
 let score = "hitesh"
 
 //console.log(typeof score);

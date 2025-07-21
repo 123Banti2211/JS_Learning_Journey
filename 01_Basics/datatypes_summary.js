@@ -1,3 +1,5 @@
+//Data types of javascript summary 
+
 //  Primitive
 
 //  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
@@ -38,6 +40,9 @@ console.log(typeof anotherId);*/
 
 
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+//Stack and Heap memory in javascript
 
 //Stack(Primitve) , Heap(Non - Primitive)
 let myYoutubename = "Hitechdotcom"

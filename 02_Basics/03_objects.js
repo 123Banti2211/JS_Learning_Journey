@@ -1,6 +1,6 @@
 // Singletone
 //Object.create
-
+//Objects in depth in javascript
 // Object literals
 
 const mySym = Symbol ("Key1")

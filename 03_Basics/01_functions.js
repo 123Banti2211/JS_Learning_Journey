@@ -1,3 +1,6 @@
+//Functions and parameter in javascript
+//Functions with objects and array in javascript
+
 function sayMyName(){
 console.log("H");
 console.log("I");

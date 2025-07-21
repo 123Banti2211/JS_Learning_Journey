@@ -1,3 +1,4 @@
+////Global and local scope in javascript
 //let a = 10
 //const b = 20
 //var c = 300
@@ -43,6 +44,7 @@ if (true) {
 //console.log(username);
 
 // +++++++++++++++++++++++++   interesting   +++++++++++++++++
+//Scope level and mini hoisting in javascript 
 
 console.log(addone(5));
 

@@ -1,3 +1,6 @@
+//Objects in Javascript part 2 
+//Object de-structure and JSON API intro
+
 //const tinderUser = new Object()
 const tinderUser = {}
 
